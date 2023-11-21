@@ -1,5 +1,5 @@
 [![MasterHead](https://media.licdn.com/dms/image/D5616AQHJlV_6U0hn3A/profile-displaybackgroundimage-shrink_350_1400/0/1685643980598?e=1706140800&v=beta&t=Ydqm3QNRwoI8mVWwykGqSZBDSkpYnjbRMnYfEqwXpyc)
-<h1 align="center">Hi 👋, I'm David Dapaah</h1>
+<h1 align="center">Hi 👋, I'm David </h1>
 <h3 align="center">A passionate Data Explorer: Navigating Business Realities with Analytics and Insightful Storytelling 🚀📊</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif?cid=ecf05e47n8qyic13eupd6lj7l7725bhw3omm4k8q37ggw6q9&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ddapaah&label=Profile%20views&color=0e75b6&style=flat" alt="ddapaah" /> </p>
